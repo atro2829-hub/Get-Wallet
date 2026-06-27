@@ -25,10 +25,10 @@ android {
                 keyAlias project.MYAPP_UPLOAD_KEY_ALIAS
                 keyPassword project.MYAPP_UPLOAD_KEY_PASSWORD
             } else {
-                storeFile file('../../../south-wallet.keystore')
-                storePassword 'southwallet123'
-                keyAlias 'southwallet'
-                keyPassword 'southwallet123'
+                storeFile file('../../../get-wallet-admin.keystore')
+                storePassword 'GetWalletAdmin2026'
+                keyAlias 'getwalletadmin'
+                keyPassword 'GetWalletAdmin2026'
             }
         }
     }
