@@ -1,9 +1,7 @@
 {
   "project_info": {
     "project_number": "501045825605",
-    "firebase_url": "https://southern-portfolio-default-rtdb.firebaseio.com",
     "project_id": "southern-portfolio",
-    "storage_bucket": "southern-portfolio.firebasestorage.app"
   },
   "client": [
     {
